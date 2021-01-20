@@ -4,10 +4,10 @@
 Introduction to the "Coding for Scientists" Python programming module at QMUL
 
 
-Click here to launch as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/c4s-introduction/master)
+Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/c4s-introduction/master)
 
 
-## Coding for Scientists [in Python], QMUL 
+## Coding for Scientists (in Python), QMUL 
 
 1. **Introduction** - this repository
 2. [First Steps](https://github.com/fsmeraldi/c4s-firststeps)
