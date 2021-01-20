@@ -19,4 +19,4 @@ Click here to launch this repository as a Binder: [![Binder](https://mybinder.or
 8. [Errors and Exceptions](https://github.com/fsmeraldi/c4s-exceptions)
 9. [Regular Expressions](https://github.com/fsmeraldi/c4s-regexp)
 
-(C)2014,2020 [Fabrizio Smeraldi](http://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
+(C)2014,2020 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
