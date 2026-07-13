@@ -1,13 +1,13 @@
 # Introduction
 
 
-Introduction to the "Coding for Scientists" Python programming module at QMUL
+Introduction to the "Coding for Bioscientists" Python programming module at QMUL
 
 
 Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/c4s-introduction/master)
 
 
-## Coding for Scientists (in Python), QMUL 
+## Coding for Bioscientists (in Python), QMUL 
 
 1. **Introduction** - this repository
 2. [First Steps](https://github.com/fsmeraldi/c4s-firststeps)
@@ -25,4 +25,4 @@ Click here to launch this repository as a Binder: [![Binder](https://mybinder.or
 For your convenience, all the videos embedded in these notebooks are also available as a YouTube [playlist](https://www.youtube.com/playlist?list=PLvkILgfJvxBTXsHOf5NO1fhvov3BrN8ee).
 
 
-(C)2014,2023 [Fabrizio Smeraldi](https://www.eecs.qmul.ac.uk/~fabri/), all rights reserved.
+(C)2014,2026 [Fabrizio Smeraldi](https://webspace.eecs.qmul.ac.uk/f.smeraldi/), all rights reserved.
